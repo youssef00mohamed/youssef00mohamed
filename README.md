@@ -30,7 +30,7 @@ I'm a passionate data scientist with a fresh perspective and a knack for solving
 ## 📝 Recent Projects
 - **Project 1:** Utilizing BERT-based sentiment analysis for Amazon reviews, achieving accurate sentiment classification. [GitHub Repository](https://github.com/youssef00mohamed/BERT-Based-Sentiment-Analysis-Model-for-Product-Reviews)
 - **Project 2:** Python script leveraging OpenAI's and LlamaAPI's APIs for translating and sentiment analyzing user reviews. [GitHub Repository](https://github.com/youssef00mohamed/Sentiment-Analysis-of-User-Reviews-with-OpenAI-s-Llama-13B-Model)
-- **Project 3:** leveraging Selenium library for web scraping Amazon reviews and sending them to an API endpoint for sentiment analysis. [GitHub Repository](https://github.com/youssef00mohamed/Algorithm-Problems)
+- **Project 3:** leveraging Selenium library for web scraping Amazon reviews and sending them to an API endpoint for sentiment analysis. [GitHub Repository](https://github.com/youssef00mohamed/Amazon-Reviews-Scraper-with-API-Integration)
 
 ## 🎓 Education
 - B.Sc. in Computers and Data Science, [Alexandria, University], Class of 2024
