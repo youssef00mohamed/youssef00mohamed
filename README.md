@@ -22,7 +22,7 @@ I'm a passionate data scientist with a fresh perspective and a knack for solving
 
 ## 📫 How to reach me ...
 - LinkedIn: [Youssef Mohamed](https://www.linkedin.com/in/youssef-mohamed-135b84291/)
-- Email: asforas4mohamed@gmail.com
+- Email: youssef.mo.khalil@gmail.com
 
 ## 📈 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef00mohamed&show_icons=true&theme=radical)](https://github.com/youssef00mohamed)
