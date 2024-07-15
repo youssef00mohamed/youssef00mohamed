@@ -28,9 +28,9 @@ I'm a passionate data scientist with a fresh perspective and a knack for solving
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=youssef00mohamed&show_icons=true&theme=radical)](https://github.com/youssef00mohamed)
 
 ## 📝 Recent Projects
-- **Project 1:** Analyzing and exploring a dataset to extract meaningful insights and prepare the data for further modeling [GitHub Repository](https://github.com/youssef00mohamed/Exploratory-Factor-Analysis-of-Survey-Data)
-- **Project 2:** This project demonstrates various lossless compression techniques implemented in Python including GUI [GitHub Repository](https://github.com/youssef00mohamed/Lossless-Compression-Techniques)
-- **Project 3:** contains solutions to two classic algorithmic problems Job Sequencing and Weighted Interval Scheduling [GitHub Repository](https://github.com/youssef00mohamed/Algorithm-Problems)
+- **Project 1:** Utilizing BERT-based sentiment analysis for Amazon reviews, achieving accurate sentiment classification. [GitHub Repository](https://github.com/youssef00mohamed/BERT-Based-Sentiment-Analysis-Model-for-Product-Reviews)
+- **Project 2:** Python script leveraging OpenAI's and LlamaAPI's APIs for translating and sentiment analyzing user reviews. [GitHub Repository](https://github.com/youssef00mohamed/Sentiment-Analysis-of-User-Reviews-with-OpenAI-s-Llama-13B-Model)
+- **Project 3:** leveraging Selenium library for web scraping Amazon reviews and sending them to an API endpoint for sentiment analysis. [GitHub Repository](https://github.com/youssef00mohamed/Algorithm-Problems)
 
 ## 🎓 Education
 - B.Sc. in Computers and Data Science, [Alexandria, University], Class of 2024
