@@ -4,24 +4,25 @@ I'm a passionate data scientist with a fresh perspective and a knack for solving
 
 ## 🔭 I’m currently working on ...
 - Exploring machine learning algorithms for predictive analytics
-- Implementing data integration solutions to unify diverse data sources
+- Developing Excel models for advanced data analysis and reporting
 - Building interactive dashboards to communicate insights effectively
 
 ## 🌱 I’m currently learning ...
 - Advanced topics in deep learning
-- Cloud computing platforms for scalable data solutions
-- Best practices in data ethics and privacy
+- Advanced data visualization techniques in Power BI
+- Best practices in data cleaning and preparation using Excel
+- Data storytelling to effectively communicate insights
 
 ## 💼 Skills
 - **Programming:** Python, R, SQL
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Big Data:** Hadoop, Spark
-- **Visualization:** Tableau, Power BI, Plotly
+- **Visualization:** Microsoft Excel, Power BI, Plotly
 - **Reporting and Analytics:** Microsoft Word, Microsoft PowerPoint, Excel, SQL Server Reporting Services (SSRS)
 
 ## 📫 How to reach me ...
-- LinkedIn: [Youssef Mohamed](https://www.linkedin.com/in/youssef-mohamed-135b84291/)
+- LinkedIn: [Youssef-Mohamed](https://www.linkedin.com/in/youssef-mohamed-135b84291/)
+- [Portfolio](https://mavenanalytics.io/profile/Youssef-Mohamed/208123344) 
 - Email: youssef.mo.khalil@gmail.com
 
 ## 📈 GitHub Stats
