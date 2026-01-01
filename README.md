@@ -1,4 +1,4 @@
-# Hi there, I'm [Youssef Mohamed] 👋
+# Hi there, I'm Youssef Mohamed 👋
 
 I'm a passionate data scientist with a fresh perspective and a knack for solving complex problems through data-driven insights. My journey in data science has equipped me with skills in machine learning, statistical analysis, and data visualization, and I'm eager to apply these skills to real-world challenges.
 
@@ -22,7 +22,7 @@ I'm a passionate data scientist with a fresh perspective and a knack for solving
 
 ## 📫 How to reach me ...
 - LinkedIn: [Youssef-Mohamed](https://www.linkedin.com/in/youssef-mohamed-135b84291/)
-- [Portfolio](https://mavenanalytics.io/profile/Youssef-Mohamed/208123344) 
+- [Portfolio]([https://mavenanalytics.io/profile/Youssef-Mohamed/208123344](https://mavenshowcase.com/profile/882133d0-4071-70d1-81c7-36a180603573)) 
 - Email: youssef.mo.khalil@gmail.com
 
 ## 📈 GitHub Stats
