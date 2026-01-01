@@ -76,12 +76,6 @@ Analyzed **~36M reviews** using transformer-based NLP models to enhance pre-purc
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssef00mohamed&show_icons=true&theme=default&cache_seconds=86400)
-
----
-
 ## 📫 How to reach me
 
 * **LinkedIn:** [Youssef Mohamed](https://linkedin.com/in/youssef-mohamed-135b84291)
